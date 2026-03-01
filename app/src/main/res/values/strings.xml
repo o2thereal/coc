@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COC Helper</string>
+    <string name="current_state">当前状态：%1$s</string>
+</resources>

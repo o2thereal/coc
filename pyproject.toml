@@ -1,0 +1,8 @@
+[project]
+name = "coc-helper"
+version = "0.1.0"
+description = "Clash of Clans helper workflow demo with state machine"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
